@@ -1,0 +1,7 @@
+{
+  "dev": {
+    "account": "yourAwsAccountId",
+    "region": "eu-central-1",
+    "appEnv": "dev"
+  }
+}
